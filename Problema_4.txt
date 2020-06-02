@@ -1,0 +1,18 @@
+Inicio
+1-Solicitar el numero de minutos
+2-Se recibe el numero
+3-Si  0 >= numero <= 100
+	numero * 0.45
+	Devolver el costo total
+4-También Si 101 >= numero <= 200
+	numero * 0.40
+	Devolver el costo total
+5-También si 201 >= numero <= 400
+	(numero * 0.30) - 5.00
+	Devolver el costo total
+6-También si numero >= 401
+	(numero * 0.27) - 10.00
+	Devolver el costo tota
+7-Si ninguna de las anteriores se cumple
+	Devolver que no es dato válido
+Fin

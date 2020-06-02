@@ -1,0 +1,10 @@
+Inicio
+1-Solicitar al usuario que ingrese tres numeros
+2-Recibir numeros a, b, c
+3-Si a > b
+	Si a > c decir que a es mayor
+4-Sino también probar si b > c
+	si b > c decirle al usuario que b es mayor
+5-Si ninguna de las anteriores se cumple, decirle al usuario que c es mayor
+Fin
+

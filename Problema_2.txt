@@ -1,0 +1,8 @@
+Inicio
+1-Solicitar los lados del triangulo.
+2-Recibir los lados de los triangulos.
+3-Si l1 1 +l2 + l3 == 180
+	Decir que el triángulo es válido
+4-De lo contrario
+	Decir que el triángulo es inválido
+Fin

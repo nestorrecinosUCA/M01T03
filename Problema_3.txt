@@ -1,0 +1,9 @@
+Inicio
+1-Solicitar el año al usuario
+2-Si año%100 == 0 y año%400 == 0
+	Decirle al usuario que el año es bisiesto.
+3-Sino también probar si año%4 == 0
+	decirle al usuario que el año es bisiesto. 
+4-Si no
+	Decirle al usuario que el año no es bisiesto.
+Fin

@@ -1,0 +1,21 @@
+Inicio
+1-Solcitar los siguientes datos datos
+2-dia, categoriaDelProducto, el cliente anda sombrero, el producto es nuevo, precio del producto
+3-Si dia == "sabado" || dia == "domingo"
+	descuento = precio * 0.10.
+	Devolver precio, descuento, precio - descuento
+4-Sino, probar si el producto es nuevo
+	Si es así, Devolver precio, no hay descuento
+4-Si no, probar, si precio >= 100
+	Si es verdadero, descuento = precio * 0.03
+	Devolver precio, descuento, precio - descuento
+6-Si no, consultar si categoriaDeProducto == "auto estéreos"
+	si es así, consultar si precio < 100
+		si es así, descuento = precio * 0.05
+		Devolver precio, descuento, precio - descuento
+7-Si no, probar si el cliente viste un sombrero
+	Si lo viste, descuento = 5.00
+	Devolver precio, descuento, precio - descuento
+8-Si no cumple ninguna de las anteriores
+	Solo dar el precio
+Fin
